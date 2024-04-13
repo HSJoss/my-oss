@@ -2,7 +2,7 @@
 import setuptools
 
 setuptools.setup(
-    name ="HSJworld",
+    name ="HSJLib",
     version="0.0.1",
     description="HSJ's library",
     author="HSJ",
